@@ -3,9 +3,9 @@ Create following table using query according to the definition.
 
 Student
 Column_Name		DataType
-Enrollment_No	VARCHAR(20)
+Enrollment_No		VARCHAR(20)
 Name			VARCHAR(25)
-CPI				DECIMAL(5,2)
+CPI			DECIMAL(5,2)
 Birthdate		DATETIME
 
 */
